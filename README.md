@@ -1,0 +1,2 @@
+- Chạy file `create_model.py` trước
+- Trên terminal nhập lệnh `uvicorn main:app`
