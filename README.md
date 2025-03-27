@@ -32,3 +32,13 @@ This project predicts diabetes using a Naive Bayes model trained on patient data
 
 Ensure `python-multipart` is installed to handle form data in FastAPI.
 The trained model is saved as `diabetes_model.sav` in the project directory.
+
+## Screenshots from this project
+<img src="https://github.com/user-attachments/assets/be89307d-c0c2-4a9b-bb71-08e53dde13c2" width=600/>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/100b8a83-a5bb-4d85-a808-c1a7526d5332" width=600/>
+
+
+
