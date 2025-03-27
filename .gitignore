@@ -162,4 +162,3 @@ cython_debug/
 #.idea/
 
 diabetes_model.sav
-*.sav
