@@ -1,6 +1,6 @@
 # Diabetes Prediction Project
 
-This project predicts diabetes using a Naive Bayes model trained on patient data. The dataset is preprocessed to handle missing values and scaled using a Quantile Transformer.
+This project predicts diabetes using a Naive Bayes model trained on patient data.
 
 ## Features
 - Preprocessing of the dataset to handle missing values.
